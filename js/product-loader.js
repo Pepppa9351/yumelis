@@ -6,7 +6,7 @@ function OnLoad() {
     const pageCategory= document.body.dataset.category;
 
     // Fetch all products and filter by type
-    fetch("/Yumelis/data/products.json")
+    fetch("/yumelis/data/products.json")
     .then(response => response.json())
     .then(products => {
         const filtered = products.filter(p => p.category === pageCategory);
@@ -22,7 +22,7 @@ function displayProducts(products) {
     const product = products[i];
 
     const productLink = document.createElement("a");
-    productLink.href= `/Yumelis/product/?id=${product.id}`;
+    productLink.href= `/yumelis/product/?id=${product.id}`;
     productLink.className = "pp-product-card";
 
     productLink.innerHTML = `

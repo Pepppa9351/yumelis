@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', OnLoad);
 // This function will load the products from the JSON file and display them
 function OnLoad() {
   // Get the products.json file from the data folder
-  fetch('/Yumelis/data/bestseller-products.json')
+  fetch('/yumelis/data/bestseller-products.json')
     .then(handleResponse)        // Handle the response from the server
     .then(displayProducts)       // Use the product data to create elements
     .catch(handleError);         // If something goes wrong, show the error
@@ -25,7 +25,7 @@ function displayProducts(products) {
 
     // Create an <a> element instead of a div to make the whole card clickable
     const productLink = document.createElement('a');
-    productLink.href= `/Yumelis/product/?id=${product.id}`;  // Pass product id in URL query
+    productLink.href= `/yumelis/product/?id=${product.id}`;  // Pass product id in URL query
     productLink.className = 'bs-product-card';
 
     // Set the inside HTML of the card

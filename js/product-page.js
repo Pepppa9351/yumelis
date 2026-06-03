@@ -4,7 +4,7 @@ function OnLoad() {
   const params = new URLSearchParams(window.location.search);
   const productId = params.get('id');
 
-  fetch("/Yumelis/data/products.json")
+  fetch("/yumelis/data/products.json")
     .then(response => response.json())
     .then(products => {
       const product = products.find(p => p.id === productId);
@@ -44,7 +44,7 @@ function createButton(product) {
         cart.push({ ...product, quantity: 1 });
       }
       localStorage.setItem('cart', JSON.stringify(cart));
-      window.location.href= "/Yumelis/cart/"; 
+      window.location.href= "/yumelis/cart/"; 
     };
   }
 }

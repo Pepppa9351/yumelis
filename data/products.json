@@ -1,10 +1,10 @@
-[
+﻿[
   {
     "id": "althair",
     "brand": "Parfums De Marly",
     "name": "Althair",
     "price": 6599,
-    "image": "/Yumelis/images/althair.png",
+    "image": "/yumelis/images/althair.png",
     "category": "parfemy",
     "content": "125 ml"
   },
@@ -13,7 +13,7 @@
     "brand": "Parfums De Marly",
     "name": "Vzorek: Althair",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   },
@@ -22,7 +22,7 @@
     "brand": "",
     "name": "Pánský set vzorků na rande",
     "price": 399,
-    "image": "/Yumelis/images/set-na-rande.png",
+    "image": "/yumelis/images/set-na-rande.png",
     "category": "darkove-sety",
     "content": "5 ml"
   },
@@ -31,7 +31,7 @@
     "brand": "Montale",
     "name": "Dark Vanilla",
     "price": 2299,
-    "image": "/Yumelis/images/dark-vanilla.png",
+    "image": "/yumelis/images/dark-vanilla.png",
     "category": "parfemy",
     "content": "100 ml"
   },
@@ -40,7 +40,7 @@
     "brand": "Montale",
     "name": "Vzorek: Dark Vanilla",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   },
@@ -49,7 +49,7 @@
     "brand": "Parfums De Marly",
     "name": "Layton",
     "price": 6999,
-    "image": "/Yumelis/images/layton.png",
+    "image": "/yumelis/images/layton.png",
     "category": "parfemy",
     "content": "125 ml"
   },
@@ -58,7 +58,7 @@
     "brand": "Parfums De Marly",
     "name": "Vzorek: Layton",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   },
@@ -67,7 +67,7 @@
     "brand": "",
     "name": "Cestovní lahvička na parfémy",
     "price": 99,
-    "image": "/Yumelis/images/doplnky.png",
+    "image": "/yumelis/images/doplnky.png",
     "category": "doplnky",
     "content": "10 ml"
   },
@@ -76,7 +76,7 @@
     "brand": "Xerjoff",
     "name": "Ether",
     "price": 8899,
-    "image": "/Yumelis/images/ether.png",
+    "image": "/yumelis/images/ether.png",
     "category": "parfemy",
     "content": "50 ml"
   },
@@ -85,7 +85,7 @@
     "brand": "Xerjoff",
     "name": "Vzorek: Ether",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   },
@@ -94,7 +94,7 @@
     "brand": "Mancera",
     "name": "Red Tobacco",
     "price": 2699,
-    "image": "/Yumelis/images/redtobacco.png",
+    "image": "/yumelis/images/redtobacco.png",
     "category": "parfemy",
     "content": "120 ml"
   },
@@ -103,7 +103,7 @@
     "brand": "Mancera",
     "name": "Vzorek: Red Tobacco",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   },
@@ -112,7 +112,7 @@
     "brand": "Mancera",
     "name": "Roses Vanille",
     "price": 2399,
-    "image": "/Yumelis/images/rosesvanille.png",
+    "image": "/yumelis/images/rosesvanille.png",
     "category": "parfemy",
     "content": "120 ml"
   },
@@ -121,7 +121,7 @@
     "brand": "Mancera",
     "name": "Vzorek: Roses Vanille",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   },
@@ -130,7 +130,7 @@
     "brand": "Mancera",
     "name": "Cedrat Boise",
     "price": 2199,
-    "image": "/Yumelis/images/cedratboise.png",
+    "image": "/yumelis/images/cedratboise.png",
     "category": "parfemy",
     "content": "120 ml"
   },
@@ -139,7 +139,7 @@
     "brand": "Mancera",
     "name": "Vzorek: Cedrat Boise",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   },
@@ -148,7 +148,7 @@
     "brand": "Xerjoff",
     "name": "Opera",
     "price": 5299,
-    "image": "/Yumelis/images/opera.png",
+    "image": "/yumelis/images/opera.png",
     "category": "parfemy",
     "content": "100 ml"
   },
@@ -157,7 +157,7 @@
     "brand": "Xerjoff",
     "name": "Vzorek: Opera",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   },
@@ -166,7 +166,7 @@
     "brand": "Xerjoff",
     "name": "Renaissance",
     "price": 5399,
-    "image": "/Yumelis/images/renaissance.png",
+    "image": "/yumelis/images/renaissance.png",
     "category": "parfemy",
     "content": "100 ml"
   },
@@ -175,7 +175,7 @@
     "brand": "Xerjoff",
     "name": "Vzorek: Renaissance",
     "price": 149,
-    "image": "/Yumelis/images/sample.png",
+    "image": "/yumelis/images/sample.png",
     "category": "vzorky",
     "content": "5 ml"
   }

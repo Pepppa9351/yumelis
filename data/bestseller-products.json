@@ -1,10 +1,10 @@
-[
+﻿[
   {
    "id": "althair",
     "brand": "Parfums De Marly",
     "name": "Althair",
     "price": 6599,
-    "image": "/Yumelis/images/althair.png",
+    "image": "/yumelis/images/althair.png",
     "category": "parfemy",
     "content": "125 ml"
   },
@@ -13,7 +13,7 @@
     "brand": "",
     "name": "Pánský set vzorků na rande",
     "price": 399,
-    "image": "/Yumelis/images/set-na-rande.png",
+    "image": "/yumelis/images/set-na-rande.png",
     "category": "darkove-sety",
     "content": "5 ml"
   },
@@ -22,7 +22,7 @@
     "brand": "Montale",
     "name": "Dark Vanilla",
     "price": 2299,
-    "image": "/Yumelis/images/dark-vanilla.png",
+    "image": "/yumelis/images/dark-vanilla.png",
     "category": "parfemy",
     "content": "100 ml"
   }
